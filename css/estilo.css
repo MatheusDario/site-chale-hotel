@@ -31,7 +31,7 @@ body {
 
 #area-menu {
 	position: absolute;
-	background: blue;
+	background: url(../imagens/topo-imagem-lateral.png) no-repeat;
 	width: 450px;
 	height: 250px;
 	top: 0;
